@@ -1,4 +1,4 @@
-# Server-API-Example
+# Server-API
 
 This was built as a quick example to fetch stats for the video game Halo Infinite for a future web application project using Next.js.
 
